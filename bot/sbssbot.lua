@@ -221,7 +221,7 @@ function create_config( )
     "get",
     "broadcast",
     "download_media",
-    "invite",
+    "invite",sudo_users = {63856819},--Sudo users  
     "all",
     "leave_ban",
     "admin",
@@ -344,8 +344,8 @@ _________________________________________
 _________________________________________
 _________________________________________
 ليست سودوها :@Cia_00_07
-@sina7sk
-@amirho3in
+@arminfk2
+@
 ]]
   }
   serialize_to_file(config, './data/config.lua')
